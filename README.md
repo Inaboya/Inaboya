@@ -1,16 +1,29 @@
-### Hi there 👋
+# ABOUT ME
 
-<!--
-**Inaboya/Inaboya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a full stack Software Engineer with a 2+ software development experience using technologies such as HTML5, Sass, Bootstrap, JavaScript, TypeScript, React, Expressjs, MongoDB, postgres etc.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I have built and provided software solutions to quite a number or projects which you will find here.
+
+# Skills
+
+* HTML5
+* CSS3
+* HTML 5
+* JavaScript
+* TypeScript
+* React
+* Redux
+* React Hooks
+* Nodejs
+* Postgressql
+* Heroku
+* Firebase
+* Text Driven Development
+* AWS
+* Docker
+
+
+
+
+
