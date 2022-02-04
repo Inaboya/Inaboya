@@ -19,7 +19,7 @@
 * Postgressql
 * Heroku
 * Firebase
-* Text Driven Development
+* Test Driven Development
 * AWS
 * Docker
 
