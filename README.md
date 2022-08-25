@@ -1,6 +1,6 @@
 # ABOUT ME
 
- I am a full stack Software Engineer with a 2+ software development experience using technologies such as HTML5, Sass, Bootstrap, JavaScript, TypeScript, React, Expressjs, MongoDB, postgres etc.
+ I am a full stack Software Engineer with a 3+ software development experience using technologies such as HTML5, Sass, Bootstrap, JavaScript, TypeScript, React, Expressjs, MongoDB, postgres etc.
 
 
 ## I have built and provided software solutions to quite a number or projects which you will find here.
